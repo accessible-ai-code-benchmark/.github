@@ -27,7 +27,7 @@ Responsibilities include:
 
 * Define project vision and scope
 * Appoint and remove maintainers
-* Resolve disputes
+* Resolve disputess
 * Approve governance changes
 * Manage trademarks, branding, and project assets
 * Represent the project externally
@@ -80,6 +80,8 @@ Examples include:
 
 * Substantial changes to the project's scope, objectives, or strategic direction
 * Changes to the project's governance model, including the composition or responsibilities of the Steering Committee
+
+The exception is if formal action resulting from a Code of Conduct violation requires a member of the Steering Committee to be removed from office, in which case the Steering Committee member in question is recused and a majority of the remaining Steering Committee members is required without requiring representation from both Project Owners.
 
 Meetings where decisions are made must achieve quorum. This means that a majority of the Steering Committee must be present, including at least one representative of each Project Owner.
 
