@@ -56,9 +56,8 @@ Responsibilities include:
 * Maintain infrastructure
 * Make routine technical decisions
 
-#### Current Maintainers
-
-TBC.
+* Grace Snow (TetraLogical)
+* Joe Lamyman (TetraLogical)
 
 ### Contributors
 
